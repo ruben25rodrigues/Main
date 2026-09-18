@@ -26,9 +26,7 @@ Here I will post all my academic and personal projects developed during my degre
   
 ## **Future Education...**
 * **Postgraduate** ...
-<br>
 * **Master´s degree** ...
-<br>
 *  **Doctorate** ...
 <br>
 
