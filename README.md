@@ -6,6 +6,7 @@ Here I will post all my academic and personal projects developed during my degre
 # UPCA 👨🏻‍🎓
 
 ## 🎓 Academic Projects
+
 ### **Bachelor's degree**: **LESI (BSc in Information Systems Engineering):** 
 * 1st year - C language project.
     * **Data structure projects:**
@@ -21,7 +22,7 @@ Here I will post all my academic and personal projects developed during my degre
 ## 📜 Certifications & Education
 
 - **Network Security** — *C-Academy (2026)*  
-  [Verify Certificate](https://github.com/user-attachments/files/32399583/Certificado.pdf)
+  [Verify Certificate](https://github.com/user-attachments/files/32399798/Network.Security.Certificate.C-Academy.2026.pdf)
   <br>
   
 ## **Future Education...**
