@@ -1,4 +1,3 @@
-[Certificado.pdf](https://github.com/user-attachments/files/32399611/Certificado.pdf)
 # Projects
 
 Here I will post all my academic and personal projects developed during my degree and personal coding journey.
