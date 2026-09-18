@@ -32,7 +32,9 @@ Here I will post all my academic and personal projects developed during my degre
 
 <br>
 * **Postgraduate** ...
+<br>
 * **Master´s degree** ...
+<br>
 *  **Doctorate** ...
 <br>
 
