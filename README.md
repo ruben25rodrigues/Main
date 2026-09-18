@@ -23,11 +23,9 @@ Here I will post all my academic and personal projects developed during my degre
 
 - **Network Security** — *C-Academy (2026)*  
   [Verify Certificate](https://github.com/user-attachments/files/32399583/Certificado.pdf)
+  <br>
+  
 ## **Future Education...**
-
-
-
-
 
 <br>
 * **Postgraduate** ...
