@@ -18,8 +18,19 @@ Here I will post all my academic and personal projects developed during my degre
 * 3rd year ...
 <br>
 
+## 📜 Certifications & Education
+
+- **Network Security** — *C-Academy (2026)  
+  [Verify Certificate]([Certificado.pdf](https://github.com/user-attachments/files/32399583/Certificado.pdf)
+)
+
 ## **Future Education...**
 
+
+
+
+
+<br>
 * **Postgraduate** ...
 * **Master´s degree** ...
 *  **Doctorate** ...
