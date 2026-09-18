@@ -21,7 +21,7 @@ Here I will post all my academic and personal projects developed during my degre
 
 ## 📜 Certifications & Education
 
-- **Network Security** — *C-Academy (2026)*  
+- **Network Security** — *C-Academy/IPCA (2026)*  
   [Verify Certificate](https://github.com/user-attachments/files/32399798/Network.Security.Certificate.C-Academy.2026.pdf)
   <br>
   
