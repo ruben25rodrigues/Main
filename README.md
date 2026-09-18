@@ -1,3 +1,4 @@
+[Certificado.pdf](https://github.com/user-attachments/files/32399611/Certificado.pdf)
 # Projects
 
 Here I will post all my academic and personal projects developed during my degree and personal coding journey.
@@ -21,7 +22,7 @@ Here I will post all my academic and personal projects developed during my degre
 ## 📜 Certifications & Education
 
 - **Network Security** — *C-Academy (2026)  
-  [Verify Certificate]([Certificado.pdf](https://github.com/user-attachments/files/32399583/Certificado.pdf)
+  [Verify Certificate](https://github.com/user-attachments/files/32399583/Certificado.pdf)
 )
 
 ## **Future Education...**
